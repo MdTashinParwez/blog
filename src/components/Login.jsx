@@ -72,9 +72,9 @@ function Login() {
                 required: true,
               })}
             />
-            <Button type="submit" className="w-full">
+            <button type="submit" className="w-full">
               Sign in
-            </Button>
+            </button>
           </div>
         </form>
       </div>
